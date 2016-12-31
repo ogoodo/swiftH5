@@ -16,8 +16,11 @@ export default class MySwiftProject extends Component {
   render() {
     return (
       <View style={styles.container}>
+        <Text>
+          cxb test
+        </Text>
         <Text style={styles.welcome}>
-          Welcome to React Native! cxb test
+          Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
